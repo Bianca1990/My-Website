@@ -48,7 +48,12 @@ body{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+	
 }
+.myskills{
+margin-bottom:50px;
+}
+
 h2{
 	font-family:'Merriweather', serif;
 	text-align:center;
